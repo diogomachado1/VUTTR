@@ -27,7 +27,7 @@ export const Content = styled.div`
       margin-top: 15px;
       font-size: 16px;
       opacity: 0.8;
-
+      align-self: flex-end;
       &:hover {
         opacity: 1;
       }
